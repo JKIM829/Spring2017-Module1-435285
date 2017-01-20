@@ -1,0 +1,24 @@
+body {
+	background: cornsilk;
+	background-image: url("Cats.gif"), url("elephant.png");
+	background-repeat: no-repeat, repeat;
+	background-position: right top, left top;
+	background-size: 40%, 5%;
+}
+h1 {
+	text-align: left;
+	padding-left: 3cm;
+	color: black;
+	font: 70px  Impact, Charcoal, sans-serif;
+	font-variant: small-caps;
+	text-shadow: 2px 1px magenta;
+	}
+	
+p {
+	text-align: left;
+	padding-left: 1.5cm;
+	color: #003326;
+	font: 36px Trebuchet MS, sans-serif;
+	}
+	
+
